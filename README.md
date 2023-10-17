@@ -6,7 +6,7 @@
 
 I'm a theatre and computer science student.  
 
-I design (and occasionally write) for theater, and tutor (and study) for computer science topics.   
+I design (and occasionally write) for theatre, and tutor (and study) for computer science topics.   
 
 [Behance](https://www.behance.net/georginawooxy)  
 
