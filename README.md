@@ -2,7 +2,11 @@
 
 <!-- ![SAM.gif](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif) -->
 
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=auto height="200">
+<div>
+  <img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width="auto" height="200" alt="Your GIF">
+  <p>Hello!</p>
+</div>
+
 
 
 
