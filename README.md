@@ -2,7 +2,7 @@
 
 <!-- ![SAM.gif](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif) -->
 
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=150 height="250" align="left"> 
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=250 height="250" align="left"> 
 
 I'm a theatre and computer science student.  
 
