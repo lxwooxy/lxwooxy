@@ -1,4 +1,5 @@
 ### I am being perceived. 👋
 
-![](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif)
+![SAM.gif](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif){:width="300px"}
+
 
