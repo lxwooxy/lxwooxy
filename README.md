@@ -11,7 +11,6 @@ I design (and occasionally write) for theater, and tutor (and study) for compute
 These are links:
 
 [Behance](https://www.behance.net/georginawooxy)
-
 [LinkedIn](https://www.linkedin.com/in/georginawooxy/)
 
 
