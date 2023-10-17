@@ -8,7 +8,11 @@ I'm a theatre and computer science student.
 
 I design (and occasionally write) for theater, and tutor (and study) for computer science topics.   
 
-Yay!
+These are links:
+
+[Behance](https://www.behance.net/georginawooxy)
+
+[LinkedIn](https://www.linkedin.com/in/georginawooxy/)
 
 
 
