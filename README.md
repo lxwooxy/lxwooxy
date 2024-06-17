@@ -2,7 +2,7 @@
 
 <!-- ![SAM.gif](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif) -->
 
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=330 height=330 align="left"> 
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=350 height=350 align="left"> 
 
 **Currently Working On:** 
  * _MIT Summer Research Program Summer 2024_
@@ -16,9 +16,9 @@ My theatre background is in lighting, sound, scenic, puppetry design, and I am a
 
 I've been an Undergraduate Teaching Assistant for these classes since **January 2022**: 
 
-  * Introduction to Computer Science (Python, MIPS, C++);
-  * Programming Methods;
-  * Software Design and Analysis I-III (C++);
+  * Introduction to Computer Science (Python, MIPS, C++)
+  * Programming Methods
+  * Software Design and Analysis I-III (C++)
   * Computer Theory I
 
 I'll be a UTA for these classes starting **Fall 2024**: 
