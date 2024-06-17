@@ -25,6 +25,7 @@ I'll be a UTA for these classes starting **Fall 2024**:
   * Artificial Intelligence
 
 **Softwares:** _Unity3D, Blender, AutoCAD, Sketchup, Vectorworks, Qlab, Reaper_
+
 **Programming Languages:** _Python, C++, SQL, C#, Swift_
 
 [Behance](https://www.behance.net/georginawooxy)  
