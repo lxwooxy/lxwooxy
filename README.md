@@ -12,7 +12,13 @@
 
 I'm a theatre and computer science student at **Hunter College, CUNY**.
 
-My theatre background is in lighting, sound, scenic, puppetry design, and I am also trained in stage and production management.  
+My theatre background (2017-Present) is in:
+    Lighting rigging, design, and programming
+    Sound design and programming
+    Scenic design, painting, and construction
+    Puppetry design and fabrication
+    Stage management
+    Production management 
 
 I've been an Undergraduate Teaching Assistant for these classes since **January 2022**: 
 
@@ -23,8 +29,8 @@ I've been an Undergraduate Teaching Assistant for these classes since **January 
 
 I'll be a UTA for these classes starting **Fall 2024**: 
 
-  * Introduction to Robotics
-  * Artificial Intelligence
+    Introduction to Robotics
+    Artificial Intelligence
 
 **Softwares:** _Unity3D, Blender, AutoCAD, Sketchup, Vectorworks, Qlab, Reaper_
 
