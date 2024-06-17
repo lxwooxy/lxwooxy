@@ -12,7 +12,7 @@
 
 I'm a theatre and computer science student at **Hunter College, CUNY**.
 
-My theatre background **(2017-Present)** is in:
+My theatre background **(2017-Present)**:
 
     Lighting rigging, design, and programming
     Sound design and programming
