@@ -6,7 +6,7 @@
 
 **Currently Working On:** 
 
-    MIT Summer Research Program Summer 2024
+    MIT Summer Research Program 2024
     CSCI499: Advanced Applications: Capstone Course for CSCI Majors 
 
 **About me:**
