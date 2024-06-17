@@ -14,12 +14,16 @@ My theatre background is in lighting, sound, scenic, puppetry design, and I am a
 
 I've been an Undergraduate Teaching Assistant for these classes since January 2022: 
 _Introduction to Computer Science (Python, MIPS, C++);_
+
 _Programming Methods;_
+
 _Software Design and Analysis I-III (C++);_
+
 _Computer Theory I_
 
 I'll be a UTA for these classes starting Fall 2024: 
 _Introduction to Robotics_
+
 _Artificial Intelligence_
 
 _Softwares: Unity3D, Blender, AutoCAD, Sketchup, Vectorworks, Qlab, Reaper_
