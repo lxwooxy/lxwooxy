@@ -2,7 +2,7 @@
 
 <!-- ![SAM.gif](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif) -->
 
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=350 height=350 align="left"> 
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=360 height=360 align="left"> 
 
 **Currently Working On:** 
  * _MIT Summer Research Program Summer 2024_
