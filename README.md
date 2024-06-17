@@ -32,9 +32,21 @@ I'll be a UTA for these classes starting **Fall 2024**:
     Introduction to Robotics
     Artificial Intelligence
 
-**Softwares:** _Unity3D, Blender, AutoCAD, Sketchup, Vectorworks, Qlab, Reaper_
+**Softwares:** 
+    Unity3D
+    Blender
+    AutoCAD
+    Sketchup
+    Vectorworks
+    Qlab
+    Reaper
 
-**Programming Languages:** _Python, C++, SQL, C#, Swift_
+**Programming Languages:**
+    Python
+    C++
+    SQL
+    C#
+    Swift
 
 [Behance](https://www.behance.net/georginawooxy)  
 
