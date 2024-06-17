@@ -33,6 +33,7 @@ I'll be a UTA for these classes starting **Fall 2024**:
     Artificial Intelligence
 
 **Softwares:** 
+
     Unity3D
     Blender
     AutoCAD
@@ -42,6 +43,7 @@ I'll be a UTA for these classes starting **Fall 2024**:
     Reaper
 
 **Programming Languages:**
+
     Python
     C++
     SQL
