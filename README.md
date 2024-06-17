@@ -22,7 +22,7 @@ My theatre background **(2017-Present)**:
     Stage management
     Production management 
 
-I've been an Undergraduate Teaching Assistant for these classes since **January 2022**: 
+I've been an Undergraduate teaching assistant and tutor for these classes since **January 2022**: 
 
     Introduction to Computer Science (Python, MIPS, C++)
     Programming Methods
