@@ -2,7 +2,7 @@
 
 <!-- ![SAM.gif](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif) -->
 
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=500 height=500 align="left"> 
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=500 height=600 align="left"> 
 
 _Currently Working: MIT Summer Research Program Summer 2024_
 
@@ -25,7 +25,7 @@ I'll be a UTA for these classes starting Fall 2024:
   * Artificial Intelligence
 
 _Softwares: Unity3D, Blender, AutoCAD, Sketchup, Vectorworks, Qlab, Reaper_
-_Programming Languages: Python, C++, SQL, C#, Swift
+_Programming Languages: Python, C++, SQL, C#, Swift_
 
 [Behance](https://www.behance.net/georginawooxy)  
 
