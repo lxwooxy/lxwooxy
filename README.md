@@ -4,7 +4,9 @@
 
 <img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=330 height=330 align="left"> 
 
-**Currently Working On:** _MIT Summer Research Program Summer 2024_
+**Currently Working On:** 
+ * _MIT Summer Research Program Summer 2024_
+ * CSCI499: Advanced Applications: Capstone Course for CSCI Majors 
 
 **About me:**
 
