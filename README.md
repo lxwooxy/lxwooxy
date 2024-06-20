@@ -25,7 +25,7 @@ My theatre background **(2017-Present)**:
 I've been an undergraduate teaching assistant and tutor for these classes since **January 2022**: 
 
     Introduction to Computer Science (Python, MIPS, C++)
-    Programming Methods
+    Programming Methods (Python)
     Software Design and Analysis I-III (C++)
     Computer Theory I
 
@@ -55,8 +55,3 @@ I'll be a UTA for these classes starting **Fall 2024**:
 [Behance](https://www.behance.net/georginawooxy)  
 
 [LinkedIn](https://www.linkedin.com/in/georginawooxy/)
-
-
-
-
-
