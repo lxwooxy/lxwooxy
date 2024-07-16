@@ -56,3 +56,5 @@ I'll be a UTA for these classes starting **Fall 2024**:
 [Behance](https://www.behance.net/georginawooxy)  
 
 [LinkedIn](https://www.linkedin.com/in/georginawooxy/)
+
+[Resume](https://github.com/lxwooxy/lxwooxy/blob/main/resume.pdf)
