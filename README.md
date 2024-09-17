@@ -34,6 +34,7 @@ I'll be a UTA for these classes starting **Fall 2024**:
 
     Introduction to Robotics
     Artificial Intelligence
+    Software Design and Analysis II
 
 **Softwares:** 
 
