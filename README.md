@@ -4,10 +4,19 @@
 
 <img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=380 height=380 align="left"> 
 
-**Currently Working On:** 
+** It's Fall 2024! Currently Working On:** 
 
-    MIT Summer Research Program 2024
-    CSCI499: Advanced Applications: Capstone Course for CSCI Majors 
+    Research Intern/Assistant: 
+        Kanwisher Lab, MIT
+        Computer Vision Lab, Hunter College
+        TIER (Trustworthy, Intelligent, Explainable Robotics) Lab, Hunter College
+    Teaching Assistant:
+        CSCI 39536: Introduction to Robotics
+        CSCI 35000: Artificial Intelligence
+        CSCI 23500: Software Design and Analysis II
+    Projects:
+        CSCI 372: Logic and Computers
+        CUNY Tech Prep: Data Science
 
 **About me:**
 
@@ -25,16 +34,10 @@ My theatre background **(2017-Present)**:
 
 I've been an undergraduate teaching assistant and tutor for these computer science classes since **January 2022**: 
 
-    Introduction to Computer Science (Python, MIPS, C++)
-    Programming Methods (Python)
-    Software Design and Analysis I-III (C++)
-    Computer Theory I
-
-I'll be a UTA for these classes starting **Fall 2024**: 
-
-    Introduction to Robotics
-    Artificial Intelligence
-    Software Design and Analysis II
+    CSCI 127: Introduction to Computer Science (Python, MIPS, C++)
+    CSCI 227: Programming Methods (Python)
+    CSCI 135/235/335: Software Design and Analysis I-III (C++)
+    CSCI 265: Computer Theory I
 
 **Softwares:** 
 
