@@ -62,3 +62,5 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 [LinkedIn](https://www.linkedin.com/in/georginawooxy/)
 
 [Resume](https://lxwooxy.github.io/documents/resume.pdf)
+
+[Website](https://lxwooxy.github.io/)
