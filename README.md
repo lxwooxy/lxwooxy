@@ -57,11 +57,7 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
     C#
     Swift
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxwooxy&langs_count=10&theme=default&count_private=true&hide=c%23,shaderlab,hlsl,ruby)
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxwooxy&langs_count=10&theme=default&count_private=true&hide=c%23,swift,shaderlab,hlsl,ruby)
 
 [Behance](https://www.behance.net/georginawooxy)  
 
