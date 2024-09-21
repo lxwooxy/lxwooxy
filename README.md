@@ -57,8 +57,6 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
     C#
     Swift
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxwooxy&show_icons=true)
-
 [Behance](https://www.behance.net/georginawooxy)  
 
 [LinkedIn](https://www.linkedin.com/in/georginawooxy/)
