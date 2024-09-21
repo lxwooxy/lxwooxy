@@ -57,7 +57,6 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
     C#
     Swift
 
-### My Top 10 Programming Languages
 <!-- Language stats will be updated here by GitHub Actions -->
 
 
