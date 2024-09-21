@@ -12,11 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update README with language stats
-        run: |
-          curl -o README.md "https://github-readme-stats.vercel.app/api/top-langs/?username=lxwooxy&layout=compact&langs_count=10&count_private=true&hide_title=true&theme=default&token=${{ secrets.GH_TOKEN }}"
-
-      - name: Commit changes
+      - name: Commit any other changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -24,4 +20,4 @@ jobs:
           git commit -m "Update README with latest stats"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Ensure you're using the correct token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
