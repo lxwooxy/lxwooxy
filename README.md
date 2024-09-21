@@ -57,7 +57,8 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
     C#
     Swift
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxwooxy&layout=compact&langs_count=10&theme=default)
+### My Top 10 Programming Languages
+<!-- Language stats will be updated here by GitHub Actions -->
 
 
 [Behance](https://www.behance.net/georginawooxy)  
