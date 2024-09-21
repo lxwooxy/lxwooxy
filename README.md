@@ -58,7 +58,6 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
     Swift
 
 ### My Top 10 Programming Languages
-### My Top 10 Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxwooxy&layout=compact&langs_count=10&theme=default&count_private=true)
 
 
