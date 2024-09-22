@@ -68,3 +68,20 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 [Resume](https://lxwooxy.github.io/documents/resume.pdf)
 
 [Website](https://lxwooxy.github.io/)
+
+<a href="https://www.behance.net/georginawooxy" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/behance.png" width="30px" alt="Behance"/>
+</a>
+
+<a href="https://www.linkedin.com/in/georginawooxy" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30px" alt="LinkedIn"/>
+</a>
+
+<a href="[https://your-resume-lin](https://lxwooxy.github.io/documents/resume.pd)k" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" width="30px" alt="Resume"/>
+</a>
+
+<a href="[https://your-website-link](https://lxwooxy.github.io/)" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="30px" alt="Website"/>
+</a>
+
