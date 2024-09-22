@@ -59,6 +59,8 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxwooxy&langs_count=10&theme=default&count_private=true&hide=c%23,swift,jupyter%20notebook,shaderlab,hlsl,ruby)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=lxwooxy&color=blue)
+
 [Behance](https://www.behance.net/georginawooxy)  
 
 [LinkedIn](https://www.linkedin.com/in/georginawooxy/)
