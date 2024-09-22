@@ -77,11 +77,11 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
   <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30px" alt="LinkedIn"/>
 </a>
 
-<a href="(https://lxwooxy.github.io/documents/resume.pdf)" target="_blank">
+<a href="https://lxwooxy.github.io/documents/resume.pdf" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" width="30px" alt="Resume"/>
 </a>
 
-<a href="(https://lxwooxy.github.io/)" target="_blank">
+<a href="https://lxwooxy.github.io/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="30px" alt="Website"/>
 </a>
 
