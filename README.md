@@ -61,14 +61,6 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=lxwooxy&color=blueviolet)
 
-[Behance](https://www.behance.net/georginawooxy)  
-
-[LinkedIn](https://www.linkedin.com/in/georginawooxy/)
-
-[Resume](https://lxwooxy.github.io/documents/resume.pdf)
-
-[Website](https://lxwooxy.github.io/)
-
 <a href="https://www.behance.net/georginawooxy" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/behance.png" width="50px" alt="Behance"/>
 </a>
