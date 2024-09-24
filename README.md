@@ -2,14 +2,14 @@
 
 <!-- ![SAM.gif](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif) -->
 
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=300 height=300 align="left"> 
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=350 height=350 align="left"> 
 
 **It's Fall 2024! Currently Working On:** 
 
     Research Intern/Assistant: 
         Kanwisher Lab, MIT
         Computer Vision Lab, Hunter College
-        TIER (Trustworthy, Intelligent, Explainable Robotics) Lab, Hunter College
+        TIER (Trustworthy, Intelligent, Explainable Robotics) Lab
     Teaching Assistant:
         CSCI 39536: Introduction to Robotics
         CSCI 35000: Artificial Intelligence
