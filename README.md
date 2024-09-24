@@ -5,6 +5,7 @@
 <img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=380 height=380 align="left"> 
 
 **It's Fall 2024! Currently Working On:** 
+
     Research Intern/Assistant: 
         Kanwisher Lab, MIT
         Computer Vision Lab, Hunter College
