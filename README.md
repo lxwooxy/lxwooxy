@@ -2,7 +2,7 @@
 
 <!-- ![SAM.gif](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif) -->
 
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=380 height=380 align="left"> 
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=360 height=360 align="left"> 
 
 **It's Fall 2024! Currently Working On:** 
 
