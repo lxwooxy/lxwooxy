@@ -63,12 +63,10 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=lxwooxy&color=blueviolet)
 
-/* Default to light mode */
 img.icon {
     filter: invert(0); /* Black icons */
 }
 
-/* Apply styles for dark mode */
 @media (prefers-color-scheme: dark) {
     img.icon {
         filter: invert(1); /* White icons */
