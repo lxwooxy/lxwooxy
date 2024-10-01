@@ -63,19 +63,29 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=lxwooxy&color=blueviolet)
 
+/* Default to light mode */
+img.icon {
+    filter: invert(0); /* Black icons */
+}
+
+/* Apply styles for dark mode */
+@media (prefers-color-scheme: dark) {
+    img.icon {
+        filter: invert(1); /* White icons */
+    }
+}
+
 <a href="https://www.behance.net/georginawooxy" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/behance.png" width="50px" alt="Behance"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/behance.png" width="50px" alt="Behance" class="icon"/>
 </a>
-
 <a href="https://www.linkedin.com/in/georginawooxy" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="50px" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="50px" alt="LinkedIn" class="icon"/>
 </a>
-
 <a href="https://lxwooxy.github.io/documents/resume.pdf" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" width="50px" alt="Resume"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" width="50px" alt="Resume" class="icon"/>
+</a>
+<a href="https://lxwooxy.github.io/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="50px" alt="Website" class="icon"/>
 </a>
 
-<a href="https://lxwooxy.github.io/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="50px" alt="Website"/>
-</a>
 
