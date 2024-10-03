@@ -63,9 +63,13 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=lxwooxy&color=blueviolet)
 
+https://img.icons8.com/?size=100&id=plwLi02xbeKN&format=png&color=000000
+https://img.icons8.com/?size=100&id=447&format=png&color=000000
+https://img.icons8.com/?size=100&id=23877&format=png&color=000000
+https://img.icons8.com/?size=100&id=53451&format=png&color=000000
 
 <a href="https://www.behance.net/georginawooxy" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/behance.png" width="50px" alt="Behance" class="icon"/>
+  <img src="https://img.icons8.com/?size=100&id=plwLi02xbeKN&format=png&color=000000/behance.png" width="50px" alt="Behance" class="icon"/>
 </a>
 <a href="https://www.linkedin.com/in/georginawooxy" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="50px" alt="LinkedIn" class="icon"/>
