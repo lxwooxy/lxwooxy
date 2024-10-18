@@ -16,7 +16,7 @@
         CSCI 23500: Software Design and Analysis II
     Projects:
         CSCI 372: Logic and Computers
-        CUNY Tech Prep: Data Science
+        CUNY Tech Prep: Data Science Track
 
 **About me:**
 
