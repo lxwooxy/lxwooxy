@@ -4,23 +4,20 @@
 
 <img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=350 height=350 align="left"> 
 
-**It's Fall 2024! Currently Working On:** 
+**It's Winter 2024! Currently Working On:** 
+    Instructor – Intro to Programming with Python 
+        Quantitative Methods Workshop 2025, MIT
 
     Research Intern/Assistant: 
         Kanwisher Lab, MIT
         Computer Vision Lab, Hunter College
         TIER (Trustworthy, Intelligent, Explainable Robotics) Lab
-    Teaching Assistant:
-        CSCI 39536: Introduction to Robotics
-        CSCI 35000: Artificial Intelligence
-        CSCI 23500: Software Design and Analysis II
-    Projects:
-        CSCI 372: Logic and Computers
-        CUNY Tech Prep: Data Science Track
+    
+    
 
 **About me:**
 
-I'm a theatre and computer science undergraduate student at **Hunter College, CUNY**.
+I'm a double major in computer science and theatre at **Hunter College, CUNY**.
 Expected Graduation: **May 2025**
 
 
@@ -34,8 +31,10 @@ My theatre background **(2017-Present)**:
     Stage management
     Production management 
 
-I've been an undergraduate teaching assistant and tutor for these computer science classes since **January 2022**: 
+I've been an undergraduate teaching assistant and tutor for these computer science classes, beginning from **January 2022**: 
 
+    CSCI 39536: Introduction to Robotics
+    CSCI 35000: Artificial Intelligence
     CSCI 127: Introduction to Computer Science (Python, MIPS, C++)
     CSCI 227: Programming Methods (Python)
     CSCI 135/235/335: Software Design and Analysis I-III (C++)
