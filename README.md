@@ -5,6 +5,7 @@
 <img src="https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif" width=350 height=350 align="left"> 
 
 **It's Winter 2024! Currently Working On:** 
+
     Instructor – Intro to Programming with Python 
         Quantitative Methods Workshop 2025, MIT
 
