@@ -22,7 +22,7 @@
 I'm a double major in computer science and theatre at **Hunter College, CUNY**.
 Expected Graduation: **May 2025**
 
-
+<br>
 
 My theatre background **(2017-Present)**:
 
