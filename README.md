@@ -22,7 +22,6 @@ I'm a double major in computer science and theatre at **Hunter College, CUNY**.
 Expected Graduation: **May 2025**
 
 
-
 My theatre background **(2017-Present)**:
 
     Lighting rigging, design, and programming
@@ -75,5 +74,3 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 <a href="https://lxwooxy.github.io/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=53451&format=png&color=000000/internet.png" width="50px" alt="Website" class="icon"/>
 </a>
-
-
