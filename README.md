@@ -6,8 +6,14 @@
 
 **It's Winter 2024! Currently Working On:** 
 
-    Instructor – Intro to Programming with Python 
-        Quantitative Methods Workshop 2025, MIT
+    Instructor –  Quantitative Methods Workshop 2025, MIT
+    Jan 2 2025
+        Python Basics 
+        Simple Coding with Python
+    Jan 3 2025
+        Plotting and Curve Fitting with Python
+    Jan 4 2025
+        Machine learning applications to studying the brain
 
     Research Intern/Assistant: 
         Kanwisher Lab, MIT
