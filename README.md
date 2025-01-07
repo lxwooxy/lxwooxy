@@ -83,9 +83,12 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 <a href="https://lxwooxy.github.io/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=103413&format=png&color=000000" width="50px" alt="Website" class="icon"/>
 </a>
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/moth.gif" width=80 height=80 align="left"> 
+
+<div style="text-align: right"> Creatures drawn and animated in Aseprite </div>
+
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/moth.gif" width=80 height=80 align="right"> 
 
 <br>
 
-<div style="text-align: right"> Creatures drawn and animated in Aseprite </div>
+
 
