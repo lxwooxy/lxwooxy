@@ -85,4 +85,5 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 </a>
 <img src="https://github.com/lxwooxy/lxwooxy/blob/main/moth.gif" width=80 height=80 align="left"> 
 
+<br>
 Creatures drawn and animated in Aseprite! 
