@@ -2,7 +2,9 @@
 
 <!-- ![SAM.gif](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif) -->
 
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/SAM.gif" width=350 height=350 align="left"> 
+<a href="https://www.behance.net/gallery/131689083/POD-Georgina-Woo-(2021)" target="_blank">
+  <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/SAM.gif" width=350 height=350 align="left">
+</a>
 
 **It's Winter 2024! Currently Working On:** 
 
