@@ -90,7 +90,7 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 
 _Creatures drawn and animated in Aseprite_ 
 <br>
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/blackbear.gif" width=40 height=40 align="left">  <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/fox_walk_8fps.gif" width=40 height=40 align="left">  
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/blackbear.gif" width=40 height=60 align="left">  <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/fox_walk_8fps.gif" width=40 height=40 align="left">  
  
 
 
