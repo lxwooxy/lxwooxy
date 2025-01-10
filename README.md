@@ -86,6 +86,7 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 
 
 <img src="https://github.com/lxwooxy/lxwooxy/blob/main/moth.gif" width=80 height=80 align="left"> 
+
 <img src="https://github.com/lxwooxy/lxwooxy/blob/main/blackbear.gif" width=80 height=80 align="left"> 
 <br>
 
