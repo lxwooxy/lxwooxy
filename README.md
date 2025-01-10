@@ -2,7 +2,7 @@
 
 <!-- ![SAM.gif](https://github.com/lxwooxy/lxwooxy/blob/main/SAM.gif) -->
 
-<img src="https://github.com/lxwooxy/lxwooxy/gif/SAM.gif" width=350 height=350 align="left"> 
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/SAM.gif" width=350 height=350 align="left"> 
 
 **It's Winter 2024! Currently Working On:** 
 
@@ -86,8 +86,8 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
 
 
 
-<img src="https://github.com/lxwooxy/lxwooxy/gif/moth.gif" width=80 height=80 align="left"> 
-<img src="https://github.com/lxwooxy/lxwooxy/gif/blackbear.gif" width=80 height=80 align="left"> 
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/moth.gif" width=80 height=80 align="left"> 
+<img src="https://github.com/lxwooxy/lxwooxy/blob/main/blackbear.gif" width=80 height=80 align="left"> 
 <br>
 
 _Creatures drawn and animated in Aseprite_ 
