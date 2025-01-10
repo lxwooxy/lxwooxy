@@ -93,8 +93,12 @@ _Creatures drawn and animated in Aseprite_
 <a href="https://www.behance.net/gallery/184397029/MOTHMAN-(2023)" target="_blank">
   <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/moth.gif" width=80 height=80>
 </a>
-<img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/blackbear.gif" width=60 height=60> 
- <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/fox_walk_8fps.gif" width=60 height=60>  
+<a href="https://www.behance.net/gallery/216557157/Creatures" target="_blank">
+  <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/blackbear.gif" width=60 height=60>
+</a>
+<a href="https://www.behance.net/gallery/216557157/Creatures" target="_blank">
+  <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/fox_walk_8fps.gif" width=60 height=60>
+</a>
  
 
 
