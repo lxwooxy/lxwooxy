@@ -74,7 +74,7 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
     C#
     Swift
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxwooxy&langs_count=10&theme=default&count_private=true&hide=c%23,swift,jupyter%20notebook,shaderlab,hlsl,ruby,g-code,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxwooxy&langs_count=10&theme=default&count_private=true&hide=c%23,swift,jupyter%20notebook,shaderlab,hlsl,ruby,g-code,html,css,js)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=lxwooxy&color=blueviolet)
 
