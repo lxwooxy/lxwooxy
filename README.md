@@ -6,7 +6,16 @@
   <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/SAM.gif" width=350 height=350 align="left">
 </a>
 
-**It's Winter 2024! Currently Working On:** 
+**It's Spring 2025! Currently Working On:** 
+    Teaching Assistant:
+        CSCI127 Introduction to Computer Science
+        CSCI235 Software Design and Analysis II
+        CSCI353 Machine Learning
+
+    Research Intern/Assistant: 
+        Kanwisher Lab, MIT
+        Computer Vision Lab, Hunter College
+        TIER (Trustworthy, Intelligent, Explainable Robotics) Lab
 
     Instructor –  Quantitative Methods Workshop 2025, MIT
         Jan 2 2025
@@ -16,11 +25,6 @@
         Plotting and Curve Fitting with Python
         Jan 4 2025
         Machine learning applications to studying the brain
-
-    Research Intern/Assistant: 
-        Kanwisher Lab, MIT
-        Computer Vision Lab, Hunter College
-        TIER (Trustworthy, Intelligent, Explainable Robotics) Lab
     
     
 
