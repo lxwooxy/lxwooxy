@@ -14,9 +14,9 @@
         CSCI353 Machine Learning
 
     Research Intern/Assistant: 
-        Kanwisher Lab, MIT
-        Computer Vision Lab, Hunter College
-        TIER (Trustworthy, Intelligent, Explainable Robotics) Lab
+        Kanwisher Lab, MIT (May 2024 - Present)
+        Computer Vision Lab, Hunter College (May 2023 - Present)
+        TIER (Trustworthy, Intelligent, Explainable Robotics) Lab (Jan 2024 - Present)
 
     Instructor –  Quantitative Methods Workshop 2025, MIT
         Jan 2 2025
