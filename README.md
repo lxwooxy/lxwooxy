@@ -52,11 +52,12 @@ My theatre background **(2017-Present)**:
 
 I've been an undergraduate teaching assistant and tutor for these computer science classes, beginning from **January 2022**: 
 
-    CSCI 39536: Introduction to Robotics
-    CSCI 35000: Artificial Intelligence
     CSCI 127: Introduction to Computer Science (Python, MIPS, C++)
     CSCI 227: Programming Methods (Python)
     CSCI 135/235/335: Software Design and Analysis I-III (C++)
+    CSCI 39536: Introduction to Robotics
+    CSCI 35000: Artificial Intelligence
+    CSCI353 Machine Learning
     CSCI 265: Computer Theory I
 
 **Softwares:** 
