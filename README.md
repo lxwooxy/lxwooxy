@@ -57,7 +57,7 @@ I've been an undergraduate teaching assistant and tutor for these computer scien
     CSCI 135/235/335: Software Design and Analysis I-III (C++)
     CSCI 39536: Introduction to Robotics
     CSCI 35000: Artificial Intelligence
-    CSCI353 Machine Learning
+    CSCI 35300 Machine Learning
     CSCI 265: Computer Theory I
 
 **Softwares:** 
