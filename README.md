@@ -13,7 +13,7 @@
         CSCI235 Software Design and Analysis II
         CSCI353 Machine Learning
 
-    Research Intern/Assistant: 
+    Research Assistant: 
         Kanwisher Lab, MIT 
           May 2024 - Present
           Decoding Contact Information in Deep Learning Models
