@@ -16,8 +16,10 @@
     Research Intern/Assistant: 
         Kanwisher Lab, MIT 
           May 2024 - Present
+          Decoding Contact Information in Deep Learning Models
         Computer Vision Lab, Hunter College 
           May 2023 - Present
+          Vision-Based Social Robot Navigation with 6D Head Pose Estimation and F-Formation Analysis
         TIER (Trustworthy, Intelligent, Explainable Robotics) Lab 
           Jan 2024 - Present
 
