@@ -19,7 +19,8 @@
           Decoding Contact Information in Deep Learning Models
         Computer Vision & Robotics Lab, Hunter College 
           May 2023 - Present
-          Vision-Based Social Robot Navigation with Pose Estimation and F-Formation Analysis
+          Vision-Based Social Robot Navigation with Pose Estimation 
+          and F-Formation Analysis
         TIER (Trustworthy, Intelligent, Explainable Robotics) Lab 
           Jan 2024 - Present
 
