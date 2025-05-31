@@ -6,41 +6,17 @@
   <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/SAM.gif" width=350 height=350 align="left">
 </a>
 
-**It's Spring 2025! Currently Working On:** 
-
-    Teaching Assistant:
-        CSCI127 Introduction to Computer Science
-        CSCI235 Software Design and Analysis II
-        CSCI353 Machine Learning
-
-    Research Assistant: 
+**Currently Working On:** 
+    Research Associate: 
         Kanwisher Lab, MIT 
           May 2024 - Present
           Decoding Contact Information in Deep Learning Models
-        Computer Vision & Robotics Lab, Hunter College 
-          May 2023 - Present
-          Vision-Based Social Robot Navigation with Pose Estimation 
-          and F-Formation Analysis
-        TIER (Trustworthy, Intelligent, Explainable Robotics) Lab 
-          Jan 2024 - Present
-
-    Instructor –  Quantitative Methods Workshop 2025, MIT
-        Jan 2 2025
-        Python Basics 
-        Simple Coding with Python
-        Jan 3 2025
-        Plotting and Curve Fitting with Python
-        Jan 4 2025
-        Machine learning applications to studying the brain
-    
-    
-
 <br><br><br>
 
 **About me:**
 
-I'm a double major in computer science and theatre at **Hunter College, CUNY**.
-Expected Graduation: **May 2025**
+I'm a double major in computer science and theatre at .
+I graduated Magma Cum Laude in my double major with honors in computer science and theatre, at **Hunter College, CUNY**, in **May 2025**
 
 <br>
 
