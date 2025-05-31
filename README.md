@@ -12,7 +12,7 @@
         Kanwisher Lab, MIT 
           May 2024 - Present
           Decoding Contact Information in Deep Learning Models
-<br><br>
+<br>
 
 **About me:**
 
@@ -30,7 +30,7 @@ My theatre background **(2017-Present)**:
     Stage management
     Production management 
 
-I've been an undergraduate teaching assistant and tutor for these computer science classes, beginning from **January 2022**: 
+At Hunter, I was an undergraduate teaching assistant and tutor for these computer science classes from **January 2022 - May 2025**: 
 
     CSCI 127: Introduction to Computer Science (Python, MIPS, C++)
     CSCI 227: Programming Methods (Python)
