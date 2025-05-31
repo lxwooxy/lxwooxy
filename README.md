@@ -11,7 +11,7 @@
         Kanwisher Lab, MIT 
           May 2024 - Present
           Decoding Contact Information in Deep Learning Models
-<br><br><br>
+<br><br>
 
 **About me:**
 
