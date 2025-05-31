@@ -15,8 +15,6 @@
 <br>
 
 **About me:**
-
-I'm a double major in computer science and theatre at .
 I graduated Magma Cum Laude in my double major with honors in computer science and theatre, at **Hunter College, CUNY**, in **May 2025**
 
 <br>
