@@ -20,7 +20,8 @@ I'm a double major in computer science and theatre at .
 I graduated Magma Cum Laude in my double major with honors in computer science and theatre, at **Hunter College, CUNY**, in **May 2025**
 
 <br>
-Check out some of my past projects, and more about me on my website <a href="https://lxwooxy.github.io/" target="_blank">
+Check out some of my past projects, and more about me on my <a href="https://lxwooxy.github.io/" target="_blank">website
+  
 My theatre background **(2017-Present)**:
 
     Lighting rigging, design, and programming
