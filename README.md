@@ -20,7 +20,7 @@ I graduated Magma Cum Laude in my double major with honors in computer science a
 <br>
 Check out some of my past projects, and more about me on my <a href="https://lxwooxy.github.io/" target="_blank">website</a>.
 
-<br>
+<br><br><br>
 
 My theatre background **(2017-Present)**:
 
