@@ -6,13 +6,6 @@
   <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/SAM.gif" width=350 height=350 align="left">
 </a>
 
-**Currently Working On:** 
-
-    Research Associate: 
-        Kanwisher Lab, MIT 
-          May 2024 - Present
-          Decoding Contact Information in Deep Learning Models
-<br>
 
 **About me:**
 I graduated Magma Cum Laude in my double major with honors in computer science and theatre, from **Hunter College, CUNY**, in **May 2025**
