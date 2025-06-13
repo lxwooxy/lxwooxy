@@ -65,7 +65,7 @@ At Hunter, I was an undergraduate teaching assistant and tutor for these compute
 <a href="https://www.linkedin.com/in/georginawooxy" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50px" alt="LinkedIn" class="icon"/>
 </a>
-<a href="https://lxwooxy.github.io/documents/resume.pdf" target="_blank">
+<a href="https://lxwooxy.github.io/documents/resume_may2025.pdf" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=23883&format=png&color=000000" width="50px" alt="Resume" class="icon"/>
 </a>
 <a href="https://lxwooxy.github.io/" target="_blank">
