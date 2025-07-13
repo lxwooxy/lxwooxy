@@ -8,7 +8,7 @@
 
 
 **About me:**
-I graduated Magma Cum Laude in my double major with honors in computer science and theatre, from **Hunter College, CUNY**, in **May 2025**
+I graduated Magna Cum Laude in my double major with honors in computer science and theatre, from **Hunter College, CUNY**, in **May 2025**
 
 <br>
 Check out some of my past projects, and more about me on my <a href="https://lxwooxy.github.io/" target="_blank">website</a>.
