@@ -26,13 +26,13 @@ My theatre background **(2017-Present)**:
 
 At Hunter, I was an undergraduate teaching assistant and tutor for these computer science classes from **January 2022 - May 2025**: 
 
-    CSCI 127: Introduction to Computer Science (Python, MIPS, C++)
-    CSCI 227: Programming Methods (Python)
-    CSCI 135/235/335: Software Design and Analysis I-III (C++)
+    CSCI 12700: Introduction to Computer Science (Python, MIPS, C++)
+    CSCI 22700: Programming Methods (Python)
+    CSCI 13500/23500/33500: Software Design and Analysis I-III (C++)
     CSCI 39536: Introduction to Robotics
     CSCI 35000: Artificial Intelligence
     CSCI 35300 Machine Learning
-    CSCI 265: Computer Theory I
+    CSCI 26500: Computer Theory I
 
 **Softwares:** 
 
