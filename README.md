@@ -10,6 +10,7 @@
 **About me:**
 <br>
 I received my BA, graduating Magna Cum Laude in my double major with honors in computer science and theatre, from **Hunter College, CUNY**, in **May 2025**.
+<br>
 I graduated with my Diploma in Arts and Theatre Management (Technical Theatre) from the School of the Arts, Republic Polytechnic, Singapore in **2019**
 
 <br>
