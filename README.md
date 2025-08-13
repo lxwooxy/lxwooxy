@@ -8,6 +8,7 @@
 <br>
 
 **About me:**
+<br>
 I received my BA, graduating Magna Cum Laude in my double major with honors in computer science and theatre, from **Hunter College, CUNY**, in **May 2025**
 
 <br>
