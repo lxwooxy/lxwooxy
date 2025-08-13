@@ -13,7 +13,7 @@ I received my BA, graduating _Magna Cum Laude_ in my double major with honors in
 
 <br>
 
-I graduated with my Diploma (_With Merit_) in Arts and Theatre Management (Technical Theatre) from the School of the Arts, Republic Polytechnic, Singapore in **2019**
+I graduated with my Diploma (_With Merit_) in Arts and Theatre Management (Technical Theatre) from the School of the Arts, Republic Polytechnic, Singapore in **2019**.
 
 <br>
 
