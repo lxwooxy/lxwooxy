@@ -9,11 +9,12 @@
 
 **About me:**
 <br>
-I received my BA, graduating Magna Cum Laude in my double major with honors in computer science and theatre, from **Hunter College, CUNY**, in **May 2025**
+I received my BA, graduating Magna Cum Laude in my double major with honors in computer science and theatre, from **Hunter College, CUNY**, in **May 2025**.
+I graduated with my Diploma in Arts and Theatre Management (Technical Theatre) from the School of the Arts, Republic Polytechnic, Singapore in **2019**
 
 <br>
 
-I have joined the Kanwisher Lab at the McGovern Institute for Brain Research, MIT, as a **K. Lisa Yang Postbaccalaureate Research Scholar**.
+Since completing my BA, I have joined the Kanwisher Lab at the McGovern Institute for Brain Research, MIT, as a **K. Lisa Yang Postbaccalaureate Research Scholar**.
 
 <br>
 Check out some of my past projects, and more about me on my <a href="https://lxwooxy.github.io/" target="_blank">website</a>.
