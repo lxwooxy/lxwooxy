@@ -5,10 +5,12 @@
 <a href="https://www.behance.net/gallery/131689083/POD-Georgina-Woo-(2021)" target="_blank">
   <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/SAM.gif" width=350 height=350 align="left">
 </a>
-
+<br>
 
 **About me:**
 I received my BA, graduating Magna Cum Laude in my double major with honors in computer science and theatre, from **Hunter College, CUNY**, in **May 2025**
+
+<br>
 
 I have joined the Kanwisher Lab at the McGovern Institute for Brain Research, MIT, as a **K. Lisa Yang Postbaccalaureate Research Scholar**.
 
