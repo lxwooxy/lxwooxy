@@ -83,7 +83,7 @@ At Hunter, I was an undergraduate teaching assistant and tutor for these compute
 
 
 
-_Creatures drawn and animated in Aseprite_ 
+_Some Aseprite creatures_ 
 <br>
 <a href="https://www.behance.net/gallery/184397029/MOTHMAN-(2023)" target="_blank">
   <img src="https://github.com/lxwooxy/lxwooxy/blob/main/gif/moth.gif" width=80 height=80>
