@@ -20,7 +20,7 @@ I graduated with my Diploma (_With Merit_) in Arts and Theatre Management (Techn
 Since completing my BA, I have joined the Kanwisher Lab at the McGovern Institute for Brain Research, MIT, as a **K. Lisa Yang Postbaccalaureate Research Scholar**.
 
 <br>
-Check out some of my past projects, and more about me on my <a href="https://lxwooxy.github.io/" target="_blank">website</a>.
+Assorted projects on my <a href="https://lxwooxy.github.io/" target="_blank">website</a>.
 
 <br><br>
 
